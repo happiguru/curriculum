@@ -39,6 +39,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Stanley Enow Lekunze's Solution](https://github.com/happiguru/Enumerable_methods) - [View Demo](https://repl.it/@happiguru/enumerablemethods#main.rb)
 * [Prabhakar Pandey's Solution](https://github.com/Prabhakarzx/Ruby-Bubble-Sort/blob/master/bubble_sort.rb) - [View Demo](https://repl.it/@Prabhakarzx/bubblesortwithRuby)
 * [Uduak Essien's Solution](https://github.com/acushlakoncept/Bubble-Sort)  - [View Demo](https://repl.it/@Acushla/Bubble-Sort-7#uduak_bubblesort.rb)
 * [Hasan's Solution](https://github.com/ozovalihasan/bubble-sort)  - [View Demo](https://repl.it/github/ozovalihasan/bubble-sort)
