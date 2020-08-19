@@ -32,7 +32,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [Sanjana's Solution](https://github.com/error34043/TOP_Ruby_Projects/blob/master/bubblesort.rb)
 * [nguyenjessev's Solution](https://github.com/nguyenjessev/bubble-sort)
 * [freeflow13's Solution](https://github.com/freeflow13/ruby_solutions/blob/master/bubble_sort.rb)
-* [Stanley Enow Lekunze's Solution](https://github.com/happiguru/Bubble-Sortb)
+* [Stanley Enow Lekunze's Solution](https://github.com/happiguru/Bubble-Sort)
 * [Sizwe Malobola's Solution](https://github.com/SizweMalobola/Ruby_Projects/blob/master/bubble_sort.rb)
 * [mrbuddh4's Solution](https://github.com/mrbuddh4/bubble-sort/blob/master/script.rb)
 * [AGL9's solution](https://github.com/agl9/bubblesortruby/blob/master/bubblesort.rb)
